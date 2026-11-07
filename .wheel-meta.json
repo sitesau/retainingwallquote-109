@@ -1,0 +1,22 @@
+{
+  "wheel_id": 798,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-109",
+  "project": "retaining-wall-quotes-before-you-start-e21857d1e7aa0e04e05a3752",
+  "parent_t1_ref": "retainingwallquote-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes before you start",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-109/",
+  "tier": "T2",
+  "writeback_nonce": "8d37d9f62e848c82",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-quotes-myths-afbb588384f90db57adba9c4aee8e7973a8/",
+      "anchor": "the retaining wall quotes myths overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
